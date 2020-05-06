@@ -1,0 +1,4 @@
+/Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/obj/Debug/netcoreapp3.1/GC_BlockbusterLab.csprojAssemblyReference.cache
+/Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/obj/Debug/netcoreapp3.1/GC_BlockbusterLab.csproj.CoreCompileInputs.cache
+/Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/obj/Debug/netcoreapp3.1/GC_BlockbusterLab.AssemblyInfoInputs.cache
+/Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/obj/Debug/netcoreapp3.1/GC_BlockbusterLab.AssemblyInfo.cs
