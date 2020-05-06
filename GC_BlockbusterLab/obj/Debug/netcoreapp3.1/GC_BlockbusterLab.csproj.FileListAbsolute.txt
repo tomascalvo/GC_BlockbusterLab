@@ -2,3 +2,11 @@
 /Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/obj/Debug/netcoreapp3.1/GC_BlockbusterLab.csproj.CoreCompileInputs.cache
 /Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/obj/Debug/netcoreapp3.1/GC_BlockbusterLab.AssemblyInfoInputs.cache
 /Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/obj/Debug/netcoreapp3.1/GC_BlockbusterLab.AssemblyInfo.cs
+/Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/bin/Debug/netcoreapp3.1/GC_BlockbusterLab.deps.json
+/Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/bin/Debug/netcoreapp3.1/GC_BlockbusterLab.runtimeconfig.json
+/Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/bin/Debug/netcoreapp3.1/GC_BlockbusterLab.runtimeconfig.dev.json
+/Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/bin/Debug/netcoreapp3.1/GC_BlockbusterLab.dll
+/Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/bin/Debug/netcoreapp3.1/GC_BlockbusterLab.pdb
+/Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/obj/Debug/netcoreapp3.1/GC_BlockbusterLab.dll
+/Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/obj/Debug/netcoreapp3.1/GC_BlockbusterLab.pdb
+/Users/tomasroderickcalvo/Projects/GC_BlockbusterLab/GC_BlockbusterLab/obj/Debug/netcoreapp3.1/GC_BlockbusterLab.genruntimeconfig.cache

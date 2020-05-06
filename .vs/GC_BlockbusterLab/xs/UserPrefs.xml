@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{5BED9175-6FC6-4589-B1E5-BB41BA3EC629}|Default">
   <MonoDevelop.Ide.ItemProperties.GC__BlockbusterLab PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GC_BlockbusterLab/DVD.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GC_BlockbusterLab/Blockbuster.cs">
     <Files>
-      <File FileName="GC_BlockbusterLab/Program.cs" Line="1" Column="1" />
-      <File FileName="GC_BlockbusterLab/Blockbuster.cs" Line="1" Column="1" />
-      <File FileName="GC_BlockbusterLab/Movie.cs" Line="1" Column="1" />
-      <File FileName="GC_BlockbusterLab/VHS.cs" Line="1" Column="1" />
-      <File FileName="GC_BlockbusterLab/DVD.cs" Line="1" Column="1" />
+      <File FileName="GC_BlockbusterLab/Program.cs" Line="13" Column="47" />
+      <File FileName="GC_BlockbusterLab/Blockbuster.cs" Line="70" Column="40" />
+      <File FileName="GC_BlockbusterLab/Movie.cs" Line="31" Column="69" />
+      <File FileName="GC_BlockbusterLab/VHS.cs" Line="33" Column="18" />
+      <File FileName="../GC_Lab11_UML/GC_Lab11_UML/Program.cs" Line="230" Column="108" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GC_BlockbusterLab" expanded="True">
             <Node name="GC_BlockbusterLab" expanded="True">
-              <Node name="DVD.cs" selected="True" />
+              <Node name="Blockbuster.cs" selected="True" />
             </Node>
           </Node>
         </State>

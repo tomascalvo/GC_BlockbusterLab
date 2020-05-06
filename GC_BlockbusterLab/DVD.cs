@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 namespace GC_BlockbusterLab
 {
-    public class DVD : Movie
+    //CLASS DECLARATION
+    class DVD : Movie
     {
         private int CurrentTime = 0;
         public DVD(string title, Movie.Genre category, int runTime, List<string> scenes)
@@ -17,19 +18,22 @@ namespace GC_BlockbusterLab
 
         public override void Play()
         {
-            Console.WriteLine("What scene would you like to watch?");
-            Console.WriteLine(Scenes.ToString());
-            string selection = Console.ReadLine().ToLower().Trim();
-            if (Scenes.Contains(selection))
+            Console.WriteLine("\nWhat scene would you like to watch?\n");
+            int i = 1;
+            foreach(string scene in Scenes)
             {
-                foreach (string scene in Scenes)
-                {
-                    if (selection == scene)
-                    {
-                        Console.WriteLine(scene);
-                    }
-                }
-
+                Console.WriteLine($"Scene {i}:\n{scene}\n");
+                i++;
+            }
+            string regEx = "\\b[1-" + $"{Scenes.Count}" + "]\\b";
+            //Console.WriteLine($"Scene number regular expression is \"{regEx}\".");
+            if (Blockbuster.ValidationLoop("which scene you would like to watch", regEx, out int sceneNumber))
+            {
+                Console.WriteLine($"Scene {sceneNumber}:\n {Scenes[sceneNumber-1]}");
+            }
+            if (Blockbuster.AskYesOrNo($"\nWould you like to watch another scene from {Title}?"))
+            {
+                Play();
             }
         }
     }
